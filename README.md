@@ -1,6 +1,7 @@
 # AgendaAi
 TCC Flutter +Devs2Blu
 App de agendamento para um salão de beleza.
+IDE = VSCode
 Front-end = Flutter
 
 # Objetivos
@@ -31,5 +32,5 @@ Objetivos Secundários:
 
 
 
-# Dia 10/11
-Fizemos a tela de login e cadastro (sem banco de dados ainda) e inicializamos a montagem da logo.
+# Dia 10/11/2025
+Fizemos a tela de login e cadastro (sem banco de dados ainda) e montamos a logo
